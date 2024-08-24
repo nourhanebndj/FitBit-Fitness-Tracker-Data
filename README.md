@@ -8,6 +8,8 @@ This project involves analyzing data collected from a survey distributed via Ama
 
 ### 1. 📉 Pie Chart (SedentaryMinutes, LightlyActiveMinutes, FairlyActiveMinutes, VeryActiveMinutes)
 
+![Pie Chart](path_to_your_image/pie_chart.png)
+
 - **🛋️ SedentaryMinutes**: The analysis reveals that the majority of the time is spent in sedentary activities, accounting for 83.3% of the total minutes. This indicates a largely inactive lifestyle among the participants.
   
 - **🚶‍♂️ LightlyActiveMinutes**: Lightly active minutes make up 14.2% of the total time. While this is significantly smaller than the sedentary minutes, it still represents a notable portion of the participants' daily activities.
@@ -15,6 +17,11 @@ This project involves analyzing data collected from a survey distributed via Ama
 - **🏃‍♂️ FairlyActiveMinutes & VeryActiveMinutes**: Both fairly active and very active minutes are minimal, each contributing only about 1.4% to the total. This further suggests that the participants engage in limited physical activity.
 
 ### 2. 🔥 Scatter Plot (Calories by Hours)
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="path_to_your_image/scatter_plot_calories_hours.png" alt="Scatter Plot Calories by Hours" width="45%">
+  <img src="path_to_your_image/scatter_plot_calories_steps.png" alt="Scatter Plot Calories by Steps" width="45%">
+</div>
 
 - **⏳ Calories vs. Hours**: The scatter plot shows the relationship between calories burned and hours of activity. Data points are color-coded, likely indicating the intensity of the activities.
   
@@ -24,13 +31,7 @@ This project involves analyzing data collected from a survey distributed via Ama
 
 ### 3. 🪜 Scatter Plot (Calories by Total Steps)
 
-- **👣 Calories vs. Steps**: This scatter plot depicts the relationship between calories burned and total steps taken.
-  
-- **📈 Positive Correlation**: A positive correlation is evident; as the number of steps increases, so does the calorie expenditure.
-  
-- **🔄 Quadrant Distribution**: The plot is divided by the median lines, with most data points falling in the lower-left and upper-right quadrants. This suggests a general trend that more steps correlate with more calories burned. However, the spread of data indicates varying efficiency in calorie burning per step, possibly due to intensity variations or individual differences.
-
-### 4. 📅 Bar Plot (Frequency by Day of the Week)
+![Bar Plot](path_to_your_image/bar_plot_day_of_week.png)
 
 - **📊 Activity Frequency**: This bar plot illustrates the frequency of an activity (likely the tracking or recording of data) by the day of the week.
   
