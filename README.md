@@ -8,7 +8,7 @@ This project involves analyzing data collected from a survey distributed via Ama
 
 ### 1. 📉 Pie Chart (SedentaryMinutes, LightlyActiveMinutes, FairlyActiveMinutes, VeryActiveMinutes)
 
-![Pie Chart](path_to_your_image/pie_chart.png)
+![Pie Chart](https://github.com/nourhanebndj/FitBit-Fitness-Tracker-Data/blob/main/pie%20chart.png)
 
 - **🛋️ SedentaryMinutes**: The analysis reveals that the majority of the time is spent in sedentary activities, accounting for 83.3% of the total minutes. This indicates a largely inactive lifestyle among the participants.
   
@@ -19,7 +19,7 @@ This project involves analyzing data collected from a survey distributed via Ama
 ### 2. 🔥 Scatter Plot (Calories by Hours)
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="path_to_your_image/scatter_plot_calories_hours.png" alt="Scatter Plot Calories by Hours" width="45%">
+  <img src="https://github.com/nourhanebndj/FitBit-Fitness-Tracker-Data/blob/main/Calories%20by%20Total%20Steps.png" alt="Scatter Plot Calories by Hours" width="45%">
   <img src="path_to_your_image/scatter_plot_calories_steps.png" alt="Scatter Plot Calories by Steps" width="45%">
 </div>
 
@@ -31,7 +31,7 @@ This project involves analyzing data collected from a survey distributed via Ama
 
 ### 3. 🪜 Scatter Plot (Calories by Total Steps)
 
-![Bar Plot](path_to_your_image/bar_plot_day_of_week.png)
+![Bar Plot](https://github.com/nourhanebndj/FitBit-Fitness-Tracker-Data/blob/main/Frequency%20by%20Day%20of%20the%20Week.png)
 
 - **📊 Activity Frequency**: This bar plot illustrates the frequency of an activity (likely the tracking or recording of data) by the day of the week.
   
