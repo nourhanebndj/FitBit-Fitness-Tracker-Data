@@ -19,8 +19,8 @@ This project involves analyzing data collected from a survey distributed via Ama
 ### 2. 🔥 Scatter Plot (Calories by Hours)
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/nourhanebndj/FitBit-Fitness-Tracker-Data/blob/main/Calories%20by%20Total%20Steps.png" alt="Scatter Plot Calories by Hours" width="45%">
-  <img src="path_to_your_image/scatter_plot_calories_steps.png" alt="Scatter Plot Calories by Steps" width="45%">
+  <img src="https://github.com/nourhanebndj/FitBit-Fitness-Tracker-Data/blob/main/Calories%20by%20Total%20Steps.png" alt="Scatter Plot Calories by Steps" width="45%">
+  <img src="https://github.com/nourhanebndj/FitBit-Fitness-Tracker-Data/blob/main/Calories%20by%20Total%20Hours.png" alt="Scatter Plot Calories by Hours" width="45%">
 </div>
 
 - **⏳ Calories vs. Hours**: The scatter plot shows the relationship between calories burned and hours of activity. Data points are color-coded, likely indicating the intensity of the activities.
