@@ -40,3 +40,8 @@ This project involves analyzing data collected from a survey distributed via Ama
 ## ✅ Conclusion
 
 The analysis indicates that the participants predominantly lead a sedentary lifestyle with limited periods of light to moderate physical activity. There is a positive correlation between the number of steps taken and the calories burned, although the efficiency of calorie burning varies among participants. The activity tracking or engagement appears to be more consistent during weekends and the start of the week, suggesting a possible decline in activity mid-week. These insights could be useful for designing interventions aimed at promoting more consistent physical activity and reducing sedentary behavior among the participants.
+
+
+## Kaggle Link
+You can find the dataset used in this project on Kaggle via the following link:
+[Kaggle Weather Data](https://www.kaggle.com/code/nourhanebndj/fitbit-fitness-tracker-data) 
